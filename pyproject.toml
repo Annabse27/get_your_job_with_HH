@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "find-your-job-with-hh"
+version = "0.1.0"
+description = ""
+authors = ["Annabse27 <annabse27@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
